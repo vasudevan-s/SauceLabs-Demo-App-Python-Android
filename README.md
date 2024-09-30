@@ -4,3 +4,4 @@ This is my first Python automation suite uaing the following:
 2. PyTest
 3. Appium
 4. Android
+5. Android Studio - Virtual Device Manager
